@@ -10,5 +10,5 @@ import { Component } from '@angular/core';
   `
 })
 export class AppComponent {
-  pageTitle = 'ACME Corporation';
+  pageTitle = 'ACME Product Management';
 }
